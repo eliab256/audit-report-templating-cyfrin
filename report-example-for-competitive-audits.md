@@ -36,7 +36,6 @@ Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
 
 - [Table of Contents](#table-of-contents)
 - [Protocol Summary](#protocol-summary)
-- [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
   - [Scope](#scope)
@@ -53,10 +52,6 @@ Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
 # Protocol Summary
 
 Protocol does X, Y, Z
-
-# Disclaimer
-
-I make all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the findings provided in this document. A security audit is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the Solidity implementation of the contracts.
 
 # Risk Classification
 
@@ -89,6 +84,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 **1. Owner:**
 
 - RESPONSIBILITIES:
+
   - resp1
 
 - LIMITATIONS:
@@ -97,6 +93,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 **2. Claimer:**
 
 - RESPONSIBILITIES:
+
   - resp1
 
 - LIMITATIONS:
