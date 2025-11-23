@@ -27,7 +27,7 @@ header-includes:
 
 <!-- Your report starts here! -->
 
-Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
+Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-security-researcher.vercel.app/)
 
 <!-- Lead Auditors:
 - xxxxxxx -->
@@ -89,6 +89,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 **1. Owner:**
 
 - RESPONSIBILITIES:
+
   - resp1
 
 - LIMITATIONS:
@@ -97,6 +98,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 **2. Claimer:**
 
 - RESPONSIBILITIES:
+
   - resp1
 
 - LIMITATIONS:

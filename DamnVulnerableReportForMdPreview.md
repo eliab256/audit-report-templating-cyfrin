@@ -1,4 +1,4 @@
-Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
+Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-security-researcher.vercel.app/)
 
 ### Damn Vulnerable DeFi: Unstoppable
 

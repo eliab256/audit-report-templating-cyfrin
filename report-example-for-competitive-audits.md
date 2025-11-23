@@ -27,7 +27,7 @@ header-includes:
 
 <!-- Your report starts here! -->
 
-Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
+Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-security-researcher.vercel.app/)
 
 <!-- Lead Auditors:
 - xxxxxxx -->

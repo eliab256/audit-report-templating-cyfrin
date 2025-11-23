@@ -13,7 +13,7 @@ header-includes:
 \centering
 \includegraphics[width=0.5\textwidth]{logo.pdf}
 \end{figure}
-\vspace*{2cm}
+\vspace\*{2cm}
 {\Huge\bfseries Damn Vulnerable Defi Finding Report\par}
 \vspace{1cm}
 {\Large Version 1.0\par}
@@ -25,7 +25,7 @@ header-includes:
 
 \maketitle
 
-Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-dev.netlify.app/)
+Prepared by: [Elia Bordoni](https://elia-bordoni-blockchain-security-researcher.vercel.app/)
 
 # Table of Contents
 
